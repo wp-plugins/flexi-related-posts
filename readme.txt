@@ -12,8 +12,11 @@ Display related post in felxible and customized view using plugin and widgets.
 
 ==Description==
 
-Flexi Related Posts is a WordPress related posts content plugin and widget with responsive layout for mobile devices. Flexi Related Posts displays your blog's related posts using beautiful slider. Description Flexi Related Posts is light weight touch supported, responsive posts content widgets and plugin. Manage your posts to show in sidebar with custom (categories, tags,authors e.t.c), With pre-designed layouts to save your time. Simple and easy to use, no coding skills required.
+Flexi Related Posts is a WordPress related posts content plugin and widget with responsive layout for mobile devices. Flexi Related Posts displays your blog's related posts using beautiful widget. 
 
+Flexi Related Posts is light weight touch supported, responsive posts content widgets and plugin. Manage your posts to show in sidebar With pre-designed layouts to save your time. Simple and easy to use, no coding skills required.
+
+Features:
 
 * Responsive related post widget.
 * Fully Customizable.
